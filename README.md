@@ -1,4 +1,4 @@
-# Interests Calculator (C)
+# Interests Calculator
 
 The Interests Calculator is a simple C program that calculates the compound interest for a given principal amount, interest rate, and time period. It helps users understand how their investments grow over time and the impact of compound interest on their savings.
 
